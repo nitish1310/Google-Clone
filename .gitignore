@@ -25,3 +25,5 @@ yarn-error.log*
 /src/firebase.js
 .firebase
 README1.md
+/src/keys.js
+
